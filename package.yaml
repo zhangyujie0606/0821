@@ -1,6 +1,9 @@
 name: zhangyvsdgdgdGV的固定發光飛碟ujie1
 description: 一种轻量级的 websocket 的客户端。一二三四五二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八bcfbcb九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十
-license: MT socket web haha
+keywords:
+  - websocket
+  - network
+license: MT
 source_file:
   - src/*.c
 
